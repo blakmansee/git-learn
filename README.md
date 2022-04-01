@@ -1,1 +1,1 @@
-Hello, hexlet!
+This is repository for learning git :)
