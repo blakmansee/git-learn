@@ -1,1 +1,0 @@
-print("eto file.py")
